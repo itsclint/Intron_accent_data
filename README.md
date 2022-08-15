@@ -5,7 +5,7 @@ Current ASR models do not perform very well with african accent and this due the
 
 This project uses open access data to build a dataset of free speech that simulates a conversation between people, an interview or a speech.
 
-## Running the project
+## Running the Code
 
 Clone the project
 
