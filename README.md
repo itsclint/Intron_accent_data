@@ -1,7 +1,7 @@
 # INTRON HEALTH OPEN ACCESS DATASET FOR AFRICAN ACCENTS
 
 Intron health promises to build africas first speech powered electronic medical record.
-Current ASR models do not perform very well with african accent and this due the lack of diverse speech datasets that are are fully representative of anglophone african countries.
+Current ASR models do not perform very well with african accent and this is due to the lack of diverse speech datasets that are are fully representative of anglophone african countries.
 
 This project uses open access data to build a dataset of free speech that simulates a conversation between people, an interview or a speech.
 
