@@ -1,5 +1,6 @@
 #!/usr/bin/env zsh
 
+#time 
 SECONDS=0
 
 #output directory
