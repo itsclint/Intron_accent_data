@@ -13,10 +13,10 @@ Clone the project
   git clone https://link-to-project
 ```
 
-Install yt-dlp.
+Install yt-dlp.\
 on a linux VM do:
 ```bash
-   brew install yt-dlp/taps/yt-dlp
+  brew install yt-dlp/taps/yt-dlp
 ```
 
 Go to the project directory
