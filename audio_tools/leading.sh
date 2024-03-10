@@ -2,8 +2,8 @@
 
 SECONDS=0
 
-inputdir=/Users/clintondera/VScode_projects/sautinass/audio/*.wav
-outputdir=/Users/clintondera/VScode_projects/sautinass/chunked_audio
+inputdir=sautinass/audio/*.wav
+outputdir=sautinass/chunked_audio
 
 # create output folder
 mkdir -p ${outputdir}
